@@ -1,0 +1,9 @@
+C:\Users\Wrong\Source\repos\RestClient\bin\Debug\RestClient.exe.config
+C:\Users\Wrong\Source\repos\RestClient\bin\Debug\RestClient.exe
+C:\Users\Wrong\Source\repos\RestClient\bin\Debug\RestClient.pdb
+C:\Users\Wrong\Source\repos\RestClient\obj\Debug\RestClient.csprojAssemblyReference.cache
+C:\Users\Wrong\Source\repos\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+C:\Users\Wrong\Source\repos\RestClient\obj\Debug\RestClient.csproj.GenerateResource.cache
+C:\Users\Wrong\Source\repos\RestClient\obj\Debug\RestClient.exe
+C:\Users\Wrong\Source\repos\RestClient\obj\Debug\RestClient.pdb
+C:\Users\Wrong\Source\repos\RestClient\obj\Debug\RestClient.RestClient.resources
